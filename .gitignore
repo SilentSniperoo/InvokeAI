@@ -187,3 +187,19 @@ installer/install.bat
 installer/install.sh
 installer/update.bat
 installer/update.sh
+
+# installed models
+models/
+
+# package dependencies
+package-lock.json
+
+# runtime data
+databases/
+
+# output files
+outputs/
+
+# configuration
+configs/
+invokeai.yaml
